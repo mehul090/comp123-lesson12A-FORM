@@ -7,12 +7,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*
+ name:mehul khosla
+ date:august 1,2017
+ description: the demo app to showcase user interfac
+ version: 0.1 - created the project*/
 namespace comp123_lesson12A
 {
-    public partial class Form1 : Form
+    public partial class Demo : Form
     {
-        public Form1()
+        public Demo()
         {
             InitializeComponent();
         }
